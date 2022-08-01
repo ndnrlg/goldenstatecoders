@@ -11354,7 +11354,7 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(131, 205, 203, 0.9);
+  background-color: rgb(151 208 207 / 90%);
   font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 #mainNav .navbar-brand {
@@ -11398,7 +11398,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(131, 205, 203, 0.9);
+  background-color: rgb(151 208 207 / 90%);
 }
 .cta .cta-inner {
   position: relative;
