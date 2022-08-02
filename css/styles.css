@@ -11498,9 +11498,8 @@ p {
   margin-bottom: 1rem;
   font-style: italic;
 }
-.list-hours .list-hours-item.today {
-  font-weight: bold;
-  color: #e6a756;
+.list-hours {
+  color: #785713;
 }
 @media (min-width: 992px) {
   .list-hours {
